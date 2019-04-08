@@ -1,5 +1,5 @@
 from,to,year,relation,weight,,,
-Wernher_von_Braun,Walt_Disney,3,function,Kontakt,,,"Kontakt, Organisation, Partei usw"
+Wernher_von_Braun,Walt_Disney,3,function,Kontakt,,
 Wernher_von_Braun,Hermann_Oberth,1,function,Kontakt,,,
 Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,Mitglied,,,
 Wernher_von_Braun,Berlin,1,place,99,,,
