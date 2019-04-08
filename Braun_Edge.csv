@@ -21,14 +21,13 @@ Wernher_von_Braun,Kummersdorf,1,place,Mitarbeiter
 Wernher_von_Braun,V2,2,mission,technischer_Direktor
 Wernher_von_Braun,Peenemuende,2,place,technischer_Direktor
 Wernher_von_Braun,Mittelwerk_GmbH,2,function,technischer_Direktor
-Wernher_von_Braun,Mittelbau-Dora,2,place,technischer_Direktor
+Wernher_von_Braun,Mittelbau_Dora,2,place,technischer_Direktor
 Wernher_von_Braun,Schutzstaffel,2,function,Sturmbannfuehrer
 Wernher_von_Braun,NSDAP,2,function,Mitglied
 Wernher_von_Braun,Aggregat_2,2,mission,Entwickler
 Wernher_von_Braun,Borkum,2,place,99
 Wernher_von_Braun,Ernst_Heinkel,2,function,Kontakt
 Wernher_von_Braun,Erich_Warsitz,2,function,Kontakt
-Wernher_von_Braun,Heinkel_He_112,2,mission,Entwickler
 Wernher_von_Braun,Neuhardenberg,2,place,99
 Wernher_von_Braun,Arthur_Rudolph,1,function,Kontakt
 Wernher_von_Braun,Arthur_Rudolph,2,function,Vorgesetzter
@@ -54,5 +53,5 @@ Wernher_von_Braun,Jupiter,3,mission,Entwickler
 Wernher_von_Braun,National_Aeronautics_and_Space_Administration,4,function,Direktor_MSFC
 Wernher_von_Braun,Mercury,4,mission,Direktor_MSFC
 Wernher_von_Braun,Gemini,4,mission,Direktor_MSFC
-Wernher_von_Braun,Apollo_Programm,4,mission,Direktor_MSFC
+Wernher_von_Braun,Apollo,4,mission,Direktor_MSFC
 Wernher_von_Braun,Saturn_V,4,mission,Direktor_MSFC
