@@ -1,120 +1,120 @@
-from,to,year,relation,land,weight
-Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1,Mitglied
-Wernher_von_Braun,Berlin,1,place,1,99
-Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1,Forscher
-Wernher_von_Braun,Breslau,1,place,1,99
-Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1,Vorstandmitglied
-Wernher_von_Braun,Heeresversuchsanstalt,1,function,1,Mitarbeiter
-Wernher_von_Braun,Kummersdorf,1,place,1,99
-Wernher_von_Braun,V2,2,mission,1,technischer Direktor
-Wernher_von_Braun,Peenemuende,2,place,1,99
-Wernher_von_Braun,Mittelwerk_GmbH,2,function,1,technischer Direktor
-Wernher_von_Braun,Mittelbau_Dora,2,place,1,99
-Wernher_von_Braun,Schutzstaffel,2,function,1,Sturmbannfuehrer
-Wernher_von_Braun,Berlin,2,place,1,99
-Wernher_von_Braun,Nationalsozialistische_Deutsche_Arbeiterpartei,2,function,1,Mitglied
-Wernher_von_Braun,Berlin,2,place,1,99
-Wernher_von_Braun,US_Army,3,function,2,Berater
-Wernher_von_Braun,Fort_Bliss,3,place,2,99
-Wernher_von_Braun,Army_Ballistic_Missile_Agency,3,function,2,technischer Direktor
-Wernher_von_Braun,Huntsville,3,place,2,99
-Wernher_von_Braun,Redstone,3,mission,2,technischer Leiter
-Wernher_von_Braun,Jupiter,3,mission,2,Entwickler
-Wernher_von_Braun,National_Aeronautics_and_Space_Administration,4,function,2,Direktor Marshall Space Flight Center
-Wernher_von_Braun,Huntsville,4,place,2,99
-Wernher_von_Braun,Mercury,4,mission,2,Direktor Marshall Space Flight Center
-Wernher_von_Braun,Gemini,4,mission,2,Direktor Marshall Space Flight Center
-Wernher_von_Braun,Apollo_Programm,4,mission,2,Direktor Marshall Space Flight Center
-Wernher_von_Braun,Saturn,4,mission,2,Leitung
-Walter_Dornberger,Heereswaffenamt,1,function,1,Entwicklungschef
-Walter_Dornberger,Berlin,1,place,1,99
-Walter_Dornberger,Verein_fuer_Raumschifffahrt,1,function,1,Foerderer
-Walter_Dornberger,Berlin,1,place,1,99
-Walter_Dornberger,Heereswaffenamt,2,function,1,Abteilungschef
-Walter_Dornberger,Kummersdorf,2,place,1,99
-Walter_Dornberger,Heereswaffenamt,2,function,1,Raketenabteilungschef
-Walter_Dornberger,Kummersdorf,2,place,1,99
-Walter_Dornberger,Heeresversuchsanstalt,2,function,1,Kommandeur
-Walter_Dornberger,Peenemuende,2,place,1,99
-Walter_Dornberger,V2,2,mission,1,Logistik-und Trainingsleiter
-Walter_Dornberger,Mittelbau_Dora,2,place,1,99
-Walter_Dornberger,Mittelwerk_GmbH,2,function,1,Beirat
-Walter_Dornberger,US_Air_Force,3,function,2,Entwickler
-Walter_Dornberger,Wright_Field,3,place,2,99
-Walter_Dornberger,Bell_Air_Craft_Corporation,3,function,2,Raketen-Entwickler
-Walter_Dornberger,Buffalo,3,place,2,99
-Walter_Dornberger,Dyna_Soar,3,mission,2,Entwickler
-Walter_Dornberger,Bell_Air_Craft_Corporation,4,function,2,Geschaeftsleitung
-Walter_Dornberger,Buffalo,4,place,2,99
-Georg_Rickhey,Nationalsozialistische_Deutsche_Arbeiterpartei,1,function,1,Mitglied
-Georg_Rickhey,Berlin,1,place,1,99
-Georg_Rickhey,Heeresversuchsanstalt,2,function,1,Generaldirektor
-Georg_Rickhey,Mittelbau_Dora,2,place,1,99
-Georg_Rickhey,Gestapo,2,function,1,Informant
-Georg_Rickhey,US_Army,3,function,2,Berater
-Georg_Rickhey,Ohio,3,place,2,99
-Arthur_Rudolph,Nationalsozialistische_Deutsche_Arbeiterpartei,1,function,1,Mitglied
-Arthur_Rudolph,Berlin,1,place,1,99
-Arthur_Rudolph,Firma_Heylandt,1,function,1,Angestellter Raketenprojekt
-Arthur_Rudolph,Sturmabteilung,2,function,1,Mitglied
-Arthur_Rudolph,Berlin,2,place,1,99
-Arthur_Rudolph,Verein_fuer_Raumschifffahrt,2,function,1,Besucher
-Arthur_Rudolph,Heereswaffenamt,2,function,1,Angestellter
-Arthur_Rudolph,Kummersdorf,2,place,1,99
-Arthur_Rudolph,Heeresversuchsanstalt,2,function,1,Fabrikationsleiter
-Arthur_Rudolph,Peenemuende,2,place,1,99
-Arthur_Rudolph,Heeresversuchsanstalt,2,function,1,Planer V2 Entwicklungsstaette
-Arthur_Rudolph,Heeresversuchsanstalt,2,function,1,Chefingenieur Raketenfabrik
-Arthur_Rudolph,Schutzstaffel,2,function,1,Hauptsturmfuehrer
-Arthur_Rudolph,Berlin,2,place,1,99
-Arthur_Rudolph,Heeresversuchsanstalt,2,function,1,Betriebsdirektor V2
-Arthur_Rudolph,Mittelbau_Dora,2,place,1,99
-Arthur_Rudolph,US_Army,3,function,2,Entwickler V2
-Arthur_Rudolph,White_Sands_Missile_Range,3,place,2,99
-Arthur_Rudolph,Army_Ballistic_Missile_Agency,3,function,2,Mitarbeiter
-Arthur_Rudolph,Fort_Bliss,3,place,2,99
-Arthur_Rudolph,Redstone,3,mission,2,Entwickler
-Arthur_Rudolph,Huntsville,3,mission,2,99
-Arthur_Rudolph,Redstone,3,mission,2,technischer Direktor
-Arthur_Rudolph,National_Aeronautics_and_Space_Administration,4,function,2,stellvertretender Direktor System Enigneering
-Arthur_Rudolph,Huntsville,4,place,2,99
-Arthur_Rudolph,National_Aeronautics_and_Space_Administration,4,function,2,stellvertretender Direktor System Enigneering
-Arthur_Rudolph,Houston,4,place,2,99
-Arthur_Rudolph,Saturn,4,mission,2,Projektdirektor
-Arthur_Rudolph,Huntsville,4,place,2,99
-Kurt_Debus,Technische_Hochschule_Darmstadt,1,function,1,Student
-Kurt_Debus,Darmstadt,1,place,1,99
-Kurt_Debus,Burschenschaft_Markommannia,1,function,1,Student
-Kurt_Debus,Sturmabteilung,2,function,1,Mitglied
-Kurt_Debus,Darmstadt,2,place,1,99
-Kurt_Debus,Schutzstaffel,2,function,1,Mitglied
-Kurt_Debus,Technische_Hochschule_Darmstadt,2,function,1,Wissenschaftlicher Mitarbeiter
-Kurt_Debus,Gestapo,2,function,1,Kooperation
-Kurt_Debus,V2,2,mission,1,Entwicklungsingenieur
-Kurt_Debus,Peenemuende,2,place,1,99
-Kurt_Debus,Pruefstand_VII,2,mission,1,Betriebsleiter
-Kurt_Debus,Operation_Backfire,2,mission,1,Kriegsgefangener
-Kurt_Debus,US_Army,3,function,2,Special Employee
-Kurt_Debus,Fort_Bliss,3,place,2,99
-Kurt_Debus,Redstone,3,mission,2,Assistenz des Technischen Direktors
-Kurt_Debus,Huntsville,3,place,2,99
-Kurt_Debus,Army_Ballistic_Missile_Agency,3,function,2,Firechief
-Kurt_Debus,National_Aeronautics_and_Space_Administration,4,function,2,Launch Operations Director
-Kurt_Debus,Kennedy_Space_Center,4,place,2,99
-Kurt_Debus,Apollo_Programm,4,mission,2,Launch Operations Director
-Joachim_Kuettner,Technische_Hochschule_Darmstadt,2,function,1,Student
-Joachim_Kuettner,Darmstadt,2,place,1,99
-Joachim_Kuettner,Messerschmitt_AG,2,function,1,Testpilot
-Joachim_Kuettner,Augsburg,2,place,1,99
-Joachim_Kuettner,Forschungsstation_Zugspitze,2,function,1,Forscher
-Joachim_Kuettner,Zugspitze,2,place,1,99
-Joachim_Kuettner,Geophysical_Research_Directorate,3,function,3,Professor
-Joachim_Kuettner,Cambridge,3,place,3,99
-Joachim_Kuettner,University_of_California,3,function,2,Professor
-Joachim_Kuettner,Oakland,3,place,2,99
-Joachim_Kuettner,Redstone,3,mission,2,Centers Director
-Joachim_Kuettner,Huntsville,3,place,2,99
-Joachim_Kuettner,Mercury ,4,mission,2,Centers Director
-Joachim_Kuettner,Huntsville,4,place,2,99
-Joachim_Kuettner,Apollo_Programm,4,mission,2,Centers Director
-Joachim_Kuettner,Kennedy_Space_Center,4,place,2,99
+from,to,year,relation,land
+Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1
+Wernher_von_Braun,Berlin,1,place,1
+Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1
+Wernher_von_Braun,Breslau,1,place,1
+Wernher_von_Braun,Verein_fuer_Raumschifffahrt,1,function,1
+Wernher_von_Braun,Heeresversuchsanstalt,1,function,1
+Wernher_von_Braun,Kummersdorf,1,place,1
+Wernher_von_Braun,V2,2,mission,1
+Wernher_von_Braun,Peenemuende,2,place,1
+Wernher_von_Braun,Mittelwerk_GmbH,2,function,1
+Wernher_von_Braun,Mittelbau_Dora,2,place,1
+Wernher_von_Braun,Schutzstaffel,2,function,1
+Wernher_von_Braun,Berlin,2,place,1
+Wernher_von_Braun,Nationalsozialistische_Deutsche_Arbeiterpartei,2,function,1
+Wernher_von_Braun,Berlin,2,place,1
+Wernher_von_Braun,US_Army,3,function,2
+Wernher_von_Braun,Fort_Bliss,3,place,2
+Wernher_von_Braun,Army_Ballistic_Missile_Agency,3,function,2
+Wernher_von_Braun,Huntsville,3,place,2
+Wernher_von_Braun,Redstone,3,mission,2
+Wernher_von_Braun,Jupiter,3,mission,2
+Wernher_von_Braun,National_Aeronautics_and_Space_Administration,4,function,2
+Wernher_von_Braun,Huntsville,4,place,2
+Wernher_von_Braun,Mercury,4,mission,2
+Wernher_von_Braun,Gemini,4,mission,2
+Wernher_von_Braun,Apollo_Programm,4,mission,2
+Wernher_von_Braun,Saturn,4,mission,2
+Walter_Dornberger,Heereswaffenamt,1,function,1
+Walter_Dornberger,Berlin,1,place,1
+Walter_Dornberger,Verein_fuer_Raumschifffahrt,1,function,1
+Walter_Dornberger,Berlin,1,place,1
+Walter_Dornberger,Heereswaffenamt,2,function,1
+Walter_Dornberger,Kummersdorf,2,place,1
+Walter_Dornberger,Heereswaffenamt,2,function,1
+Walter_Dornberger,Kummersdorf,2,place,1
+Walter_Dornberger,Heeresversuchsanstalt,2,function,1
+Walter_Dornberger,Peenemuende,2,place,1
+Walter_Dornberger,V2,2,mission,1
+Walter_Dornberger,Mittelbau_Dora,2,place,1
+Walter_Dornberger,Mittelwerk_GmbH,2,function,1
+Walter_Dornberger,US_Air_Force,3,function,2
+Walter_Dornberger,Wright_Field,3,place,2
+Walter_Dornberger,Bell_Air_Craft_Corporation,3,function,2
+Walter_Dornberger,Buffalo,3,place,2
+Walter_Dornberger,Dyna_Soar,3,mission,2
+Walter_Dornberger,Bell_Air_Craft_Corporation,4,function,2
+Walter_Dornberger,Buffalo,4,place,2
+Georg_Rickhey,Nationalsozialistische_Deutsche_Arbeiterpartei,1,function,1
+Georg_Rickhey,Berlin,1,place,1
+Georg_Rickhey,Heeresversuchsanstalt,2,function,1
+Georg_Rickhey,Mittelbau_Dora,2,place,1
+Georg_Rickhey,Gestapo,2,function,1
+Georg_Rickhey,US_Army,3,function,2
+Georg_Rickhey,Ohio,3,place,2
+Arthur_Rudolph,Nationalsozialistische_Deutsche_Arbeiterpartei,1,function,1
+Arthur_Rudolph,Berlin,1,place,1
+Arthur_Rudolph,Firma_Heylandt,1,function,1
+Arthur_Rudolph,Sturmabteilung,2,function,1
+Arthur_Rudolph,Berlin,2,place,1
+Arthur_Rudolph,Verein_fuer_Raumschifffahrt,2,function,1
+Arthur_Rudolph,Heereswaffenamt,2,function,1
+Arthur_Rudolph,Kummersdorf,2,place,1
+Arthur_Rudolph,Heeresversuchsanstalt,2,function,1
+Arthur_Rudolph,Peenemuende,2,place,1
+Arthur_Rudolph,Heeresversuchsanstalt,2,function,1
+Arthur_Rudolph,Heeresversuchsanstalt,2,function,1
+Arthur_Rudolph,Schutzstaffel,2,function,1
+Arthur_Rudolph,Berlin,2,place,1
+Arthur_Rudolph,Heeresversuchsanstalt,2,function,1
+Arthur_Rudolph,Mittelbau_Dora,2,place,1
+Arthur_Rudolph,US_Army,3,function,2
+Arthur_Rudolph,White_Sands_Missile_Range,3,place,2
+Arthur_Rudolph,Army_Ballistic_Missile_Agency,3,function,2
+Arthur_Rudolph,Fort_Bliss,3,place,2
+Arthur_Rudolph,Redstone,3,mission,2
+Arthur_Rudolph,Huntsville,3,mission,2
+Arthur_Rudolph,Redstone,3,mission,2
+Arthur_Rudolph,National_Aeronautics_and_Space_Administration,4,function,2
+Arthur_Rudolph,Huntsville,4,place,2
+Arthur_Rudolph,National_Aeronautics_and_Space_Administration,4,function,2
+Arthur_Rudolph,Houston,4,place,2
+Arthur_Rudolph,Saturn,4,mission,2
+Arthur_Rudolph,Huntsville,4,place,2
+Kurt_Debus,Technische_Hochschule_Darmstadt,1,function,1
+Kurt_Debus,Darmstadt,1,place,1
+Kurt_Debus,Burschenschaft_Markommannia,1,function,1
+Kurt_Debus,Sturmabteilung,2,function,1
+Kurt_Debus,Darmstadt,2,place,1
+Kurt_Debus,Schutzstaffel,2,function,1
+Kurt_Debus,Technische_Hochschule_Darmstadt,2,function,1
+Kurt_Debus,Gestapo,2,function,1
+Kurt_Debus,V2,2,mission,1
+Kurt_Debus,Peenemuende,2,place,1
+Kurt_Debus,Pruefstand_VII,2,mission,1
+Kurt_Debus,Operation_Backfire,2,mission,1
+Kurt_Debus,US_Army,3,function,2
+Kurt_Debus,Fort_Bliss,3,place,2
+Kurt_Debus,Redstone,3,mission,2
+Kurt_Debus,Huntsville,3,place,2
+Kurt_Debus,Army_Ballistic_Missile_Agency,3,function,2
+Kurt_Debus,National_Aeronautics_and_Space_Administration,4,function,2
+Kurt_Debus,Kennedy_Space_Center,4,place,2
+Kurt_Debus,Apollo_Programm,4,mission,2
+Joachim_Kuettner,Technische_Hochschule_Darmstadt,2,function,1
+Joachim_Kuettner,Darmstadt,2,place,1
+Joachim_Kuettner,Messerschmitt_AG,2,function,1
+Joachim_Kuettner,Augsburg,2,place,1
+Joachim_Kuettner,Forschungsstation_Zugspitze,2,function,1
+Joachim_Kuettner,Zugspitze,2,place,1
+Joachim_Kuettner,Geophysical_Research_Directorate,3,function,3
+Joachim_Kuettner,Cambridge,3,place,3
+Joachim_Kuettner,University_of_California,3,function,2
+Joachim_Kuettner,Oakland,3,place,2
+Joachim_Kuettner,Redstone,3,mission,2
+Joachim_Kuettner,Huntsville,3,place,2
+Joachim_Kuettner,Mercury ,4,mission,2
+Joachim_Kuettner,Huntsville,4,place,2
+Joachim_Kuettner,Apollo_Programm,4,mission,2
+Joachim_Kuettner,Kennedy_Space_Center,4,place,2
