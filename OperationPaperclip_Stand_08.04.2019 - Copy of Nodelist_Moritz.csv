@@ -1,0 +1,54 @@
+id,name,type,study,promotion
+Aero_Medical_Center,AMC,1,99,99
+Apollo_Programm,Apollo,1,99,99
+Army_Ballistic_Missile_Agency,ABMA,1,99,99
+Dachau,Dachau,2,99,99
+Deutsche_Akademie_fuer_Luftfahrtforschung,DAfL,1,99,99
+Deutsche_Versuchsanstalt_fuer_Luftfahrt,DVfL,1,99,99
+Firma_Hatlapa,Firma Hatlapa,1,99,1
+Firma_Heylandt,Firma Heylandt,1,99,99
+Flugmedizinisches_Institut,FmI,1,99,99
+Gefangener_US-Armee,Gefangener,99,99,99
+Gemini,Gemini,1,99,99
+Institut_fuer_Flugmedizin_der_deutschen_Versuchsanstalt,IfFddV,1,99,99
+Konzentrationslager_Dachau,KZ Dachau,2,99,99
+Kriegsgefangener,KG,99,99,99
+National_Aeronautics_and_Space_Administration,NASA,1,99,99
+National_Institute_of_Standards_and_Technology,NIST,1,99,99
+Nationalsozialistische_Deutsche_Arbeiterpartei,NSDAP,1,99,99
+North_American_Aviation,NAA,0,99,99
+Obermedizinalrat,Obermedizinalrat,1,99,99
+Produktionsdirektor,Produktionsdirektor,1,99,99
+Professor,Professor,99,99,99
+Raketen-Ingenieur,Raketen-Ingenieur,1,99,99
+Randolph_Air_Force_Base,RAFB,2,99,99
+Rechlin,Rechlin,2,99,99
+Redstone,Redstone,1,99,99
+Referent_Menschenversuche,RefMenVer,1,99,99
+Reichsluftfahrtministerium,RLFM,1,99,99
+Rockefeller_Foundation,RF,1,99,99
+Saturn,Saturn,3,99,99
+Schering_AG,Schering AG,1,99,99
+Schutzstaffel,SS,1,99,99
+Siegfried_Ruff,Ruff,0,1,1
+stellvertretender_Direktor,stellDir,99,99,99
+Stellvertreter_Brauns,stellBraun,99,99,99
+Stipendium,Stipendium,3,99,99
+Student,Student,99,99,99
+Sturmabteilung,SA,1,99,99
+technischer_Direktor,techDir,99,99,99
+Test_Stand_12,TS12,3,99,99
+Theodor_Benzinger,Benzinger,0,1,1
+Triebswerkentwicklung_Redstone,TriebEntRed,0,99,99
+Ueberwacher_Konstruktion_Maschinentests,UebKonMasch,1,99,99
+Uetersen,Uetersen,1,99,99
+Universitaet_Heidelberg,UniHeidel,1,99,99
+US_Air_Force,USAF,1,99,99
+US_Airforce-Aviation-University,USAAU,1,99,99
+US_Army,US Army,1,99,99
+V2,V2,3,99,99
+Verantwortlicher_Saturn-Raketen,VerSatRak,1,99,99
+Walter_Riedel,Riedel,0,1,1
+Wehrdienst + Kommunikation,WehrKomm,1,99,99
+White_Sands_Missile_Range,WSMR,1,99,99
+Deputy_Director,Deputy Director,1,99,99
