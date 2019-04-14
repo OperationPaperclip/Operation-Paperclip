@@ -1,0 +1,144 @@
+from,to,year,relation,land,weight
+Walter_Riedel,Firma_Heylandt,1,function,1,Entwickler Raketenmotoren
+Walter_Riedel,Berlin,1,place,1,99
+Walter_Riedel,Heereswaffenamt,2,function,1,Forschung und Entwicklung
+Walter_Riedel,Kummersdorf,2,place,1,99
+Walter_Riedel,Heeresversuchsanstalt,2,function,1,Leiter technisches Konstruktionsbuero V2
+Walter_Riedel,Peenemuende,2,place,1,99
+Walter_Riedel,Heeresversuchsanstalt,2,function,1,Chefdesigner
+Walter_Riedel,Heeresversuchsanstalt,2,function,3,Beaufsichtiger bei Verlegung nach Ebensee
+Walter_Riedel,Ebbensee,2,place,1,99
+Walter_Riedel,Kriegsgefangenschaft,3,function,1,Gefangener US-Armee
+Walter_Riedel,Deggendorf,3,place,1,99
+Eberhard_Rees,Heeresversuchsanstalt,2,function,1,Stellvertreter Brauns
+Eberhard_Rees,Peenemuende,2,place,1,99
+Eberhard_Rees,Heeresversuchsanstalt,2,function,1,Betriebsdirektor
+Eberhard_Rees,Heeresversuchsanstalt,2,function,1,Produktionsdirektor
+Eberhard_Rees,US_Army,3,function,2,Berater
+Eberhard_Rees,Fort_Bliss,3,place,2,99
+Eberhard_Rees,Redstone,3,function,2,Stellvertreter Brauns
+Eberhard_Rees,Army_Ballistic_Missile_Agency,3,function,2,stellvertretender Direktor
+Eberhard_Rees,Huntsville,3,place,2,99
+Eberhard_Rees,National_Aeronautics_and_Space_Administration,4,function,2,Stellvertreter Brauns
+Eberhard_Rees,Huntsville,4,place,2,99
+Eberhard_Rees,National_Aeronautics_and_Space_Administration,4,function,2,Verantwortlicher Saturn-Raketen
+Eberhard_Rees,National_Aeronautics_and_Space_Administration,4,function,2,Direktor Marshall Space Flight Center
+Bernhard_Tessmann,Heeresversuchsanstalt,2,function,1,Ueberwacher Konstruktion Maschinentests
+Bernhard_Tessmann,Peenemuende,2,place,1,99
+Bernhard_Tessmann,V2,2,function,1,Entwickler
+Bernhard_Tessmann,Koelpinsee,2,place,1,99
+Bernhard_Tessmann,US_Army,3,function,2,Berater
+Bernhard_Tessmann,Fort_Bliss,3,place,2,99
+Bernhard_Tessmann,White_Sands_Missile_Range,3,function,2,Mitarbeiter
+Bernhard_Tessmann,White_Sands_Missile_Range,3,place,2,99
+Bernhard_Tessmann,US_Army,3,function,2,Mitarbeiter
+Bernhard_Tessmann,Huntsville,3,place,2,99
+Bernhard_Tessmann,National_Aeronautics_and_Space_Administration,4,function,2,Deputy Director
+Bernhard_Tessmann,Huntsville,4,place,2,99
+Dieter_Huzel,Nationalsozialistische_Deutsche_Arbeiterpartei,2,function,1,Mitglied
+Dieter_Huzel,Berlin,2,place,1,99
+Dieter_Huzel,Heeresversuchsanstalt,2,function,1,Mitarbeiter
+Dieter_Huzel,Peenemuende,2,place,1,99
+Dieter_Huzel,Heeresversuchsanstalt,2,function,1,Leiter V2-Pruefstand
+Dieter_Huzel,Peenemuende,2,place,1,99
+Dieter_Huzel,Heeresversuchsanstalt,2,function,1,Assistent Brauns
+Dieter_Huzel,Peenemuende,2,place,1,99
+Dieter_Huzel,US_Army,3,function,2,Berater
+Dieter_Huzel,Fort_Bliss,3,place,2,99
+Dieter_Huzel,North_American_Aviation,4,function,2,Triebswerkentwicklung Redstone
+Dieter_Huzel,Los Angeles,4,place,2,99
+Theodor_Benzinger,Nationalsozialistische_Deutsche_Arbeiterpartei,2,function,1,Mitglied
+Theodor_Benzinger,Berlin,2,place,1,99
+Theodor_Benzinger,Sturmabteilung,2,function,1,Mitglied
+Theodor_Benzinger,Berlin,2,place,1,99
+Theodor_Benzinger,Flugmedizinisches_Institut,2,function,1,Leiter
+Theodor_Benzinger,Rechlin,2,place,1,99
+Theodor_Benzinger,Deutsche_Akademie_fuer_Luftfahrtforschung,2,function,1,Obermedizinalrat
+Theodor_Benzinger,Berlin,2,place,1,99
+Theodor_Benzinger,US_Air_Force,3,function,2,Berater
+Theodor_Benzinger,Randolph_Air_Force_Base,3,place,2,99
+Theodor_Benzinger,NMRI,3,function,2,Direktor
+Theodor_Benzinger,Bethesda,3,place,2,99
+Theodor_Benzinger,National_Institute_of_Standards_and_Technology,4,function,2,Mitarbeiter
+Theodor_Benzinger,Gaithersburg,4,place,2,99
+Konrad_Schaefer,Schering_AG,2,function,1,Assistent Chemotherapeutisches Laboratorium
+Konrad_Schaefer,Berlin,2,place,1,99
+Konrad_Schaefer,Luftwaffe,2,function,1,Mitarbeiter Sanitaetsversuchs-und Lehrabteilung
+Konrad_Schaefer,Jueterbog,2,place,1,99
+Konrad_Schaefer,Konzentrationslager_Dachau,2,function,1,Referent Menschenversuche
+Konrad_Schaefer,Dachau,2,place,1,99
+Konrad_Schaefer,Forschungsinstitut_fuer_Luftfahrtmedizin,2,function,1,Mitarbeiter
+Konrad_Schaefer,Berlin,2,place,1,99
+Konrad_Schaefer,US_Air_Force,3,function,2,Mitarbeiter
+Konrad_Schaefer,Randolph_Air_Force_Base,3,place,2,99
+Siegfried_Ruff,Deutsche_Versuchsanstalt_fuer_Luftfahrt,2,function,1,Direktor Institut fuer Flugmedizin
+Siegfried_Ruff,Berlin,2,place,1,99
+Siegfried_Ruff,Deutsche_Akademie_fuer_Luftfahrtforschung,2,function,1,Mitglied
+Siegfried_Ruff,Berlin,2,place,1,99
+Siegfried_Ruff,Nationalsozialistische_Deutsche_Arbeiterpartei,2,function,1,Mitglied
+Siegfried_Ruff,Berlin,2,place,1,99
+Siegfried_Ruff,Konzentrationslager_Dachau,2,function,1,Hoehenversuche
+Siegfried_Ruff,Dachau,2,place,1,99
+Siegfried_Ruff,Aero_Medical_Center,3,function,1,Forscher
+Siegfried_Ruff,Heidelberg,3,place,1,99
+Siegfried_Ruff,Institut_fuer_Flugmedizin_der_deutschen_Versuchsanstalt,3,function,1,Leiter
+Siegfried_Ruff,Bonn,3,place,1,99
+Siegfried_Ruff,Universitaet_Heidelberg,3,function,1,Professor
+Siegfried_Ruff,Bonn,3,place,1,99
+Hubertus_Strughold,Apollo_Programm,4,function,2,Direktor Aerospace Medical Division
+Hubertus_Strughold,Huntsville,4,place,2,99
+Hubertus_Strughold,Aero_Medical_Center,3,function,1,Leiter
+Hubertus_Strughold,Heidelberg,3,place,1,99
+Hubertus_Strughold,National_Aeronautics_and_Space_Administration,4,function,2,Direktor Aerospace Medical Division
+Hubertus_Strughold,Huntsville,4,place,2,99
+Hubertus_Strughold,Luftwaffe,2,function,1,Chef-Forscher
+Hubertus_Strughold,Berlin,2,place,2,99
+Hubertus_Strughold,Rockefeller_Foundation,1,function,2,Stipendium
+Hubertus_Strughold,Chicago,1,place,2,99
+Hubertus_Strughold,Flugmedizinisches_Institut,2,function,1,Direktor
+Hubertus_Strughold,Berlin,2,place,1,99
+Hubertus_Strughold,Reichsluftfahrtministerium,2,function,1,Chef-Position
+Hubertus_Strughold,Berlin,2,place,1,99
+Hubertus_Strughold,Universitaet_Heidelberg,3,function,1,Direktor des Physiologischen Instituts
+Hubertus_Strughold,Heidelberg,3,place,1,99
+Hubertus_Strughold,US_Air_Force,3,function,2,Mitarbeiter
+Hubertus_Strughold,Randolph_Air_Force_Base,3,place,2,99
+Hubertus_Strughold,Institut_fuer_Weltraummedizin,3,function,2,Professor
+Hubertus_Strughold,US_Air_Force_Aviation_University,3,place,2,99
+Hubertus_Strughold,Gemini,4,function,2,Direktor Aerospace Medical Division
+Hubertus_Strughold,Huntsville,4,place,2,99
+Hubertus_Strughold,Rockefeller_Foundation,1,function,2,Stipendium
+Hubertus_Strughold,Cleveland,1,place,2,99
+Georg_von_Tiesenhausen,Ingenieurschule_Hamburg,2,function,1,Student
+Georg_von_Tiesenhausen,Hamburg,2,place,1,99
+Georg_von_Tiesenhausen,Luftwaffe,2,function,99,Wehrdienst + Kommunikation
+Georg_von_Tiesenhausen,NA,2,place,99,99
+Georg_von_Tiesenhausen,Heeresversuchsanstalt,2,function,1,Raketen-Ingenieur
+Georg_von_Tiesenhausen,Peenemuende,2,place,1,99
+Georg_von_Tiesenhausen,Heeresversuchsanstalt,2,function,1,Abteilungsleiter
+Georg_von_Tiesenhausen,Peenemuende,2,place,1,99
+Georg_von_Tiesenhausen,V2,2,function,1,Mitarbeiter
+Georg_von_Tiesenhausen,Peenemuende,2,place,1,99
+Georg_von_Tiesenhausen,Test_Stand_12,2,function,1,Entwicklung Mini-U-Boote
+Georg_von_Tiesenhausen,Peenemuende,2,place,1,99
+Georg_von_Tiesenhausen,Kriegsgefangenschaft,3,function,99,Kriegsgefangener
+Georg_von_Tiesenhausen,Firma_Hatlapa,3,function,1,Ingenieur
+Georg_von_Tiesenhausen,Uetersen,3,place,1,99
+Georg_von_Tiesenhausen,US_Army,3,function,2,Entwicklung
+Georg_von_Tiesenhausen,Huntsville,3,place,2,99
+Georg_von_Tiesenhausen,Army_Ballistic_Missile_Agency,3,function,2,99
+Georg_von_Tiesenhausen,Huntsville,3,place,2,99
+Georg_von_Tiesenhausen,Redstone,3,function,2,Mitarbeiter
+Georg_von_Tiesenhausen,Huntsville,3,place,2,99
+Georg_von_Tiesenhausen,National_Aeronautics_and_Space_Administration,4,function,2,Lunar Rover Konzept
+Georg_von_Tiesenhausen,Huntsville,4,place,2,99
+Georg_von_Tiesenhausen,National_Aeronautics_and_Space_Administration,4,function,2,Wissenschaftler
+Georg_von_Tiesenhausen,Marshall_Space_Flight_Center,4,place,2,99
+Georg_von_Tiesenhausen,National_Aeronautics_and_Space_Administration,4,function,2,Stellvertretender Direktor
+Georg_von_Tiesenhausen,Advanced_Systems_Office,4,place,99,99
+Georg_von_Tiesenhausen,Apollo_Programm,4,function,2,Lunar Rover Entwicklung
+Georg_von_Tiesenhausen,Huntsville,4,place,2,99
+Georg_von_Tiesenhausen,National_Aeronautics_and_Space_Administration,4,function,2,Chef der Zukunftsstudien
+Georg_von_Tiesenhausen,Future_Launch_Systems_Study_Office,4,place,99,99
+Georg_von_Tiesenhausen,Saturn,4,mission,2,Entwicklung Haltemechanismen
+Georg_von_Tiesenhausen,Huntsville,4,place,2,99
